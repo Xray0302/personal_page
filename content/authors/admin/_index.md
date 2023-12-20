@@ -1,50 +1,46 @@
 ---
 # Display name
-title: 吳健雄
+title: Rui Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rui
+last_name: Xu
 
 # Status emoji
-status:
+status: I am now finding a Ph.D. postion in Robotics~
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: postgraduate in HUST
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Huazhong University of Science and Technology
+    url: https://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests primarily focuses on robot calibration, measurement, and control techniques.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+- Robot calibration and visual measurement technology.
+- Planning and control of cooperative robots.
+- Machine vision and image processing.
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Mechanical Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2021-2024
+    - course: BSc in Mechanical Engineering and Automation
+      institution: Huazhong University of Science and Technology
+      year: 2017-2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
