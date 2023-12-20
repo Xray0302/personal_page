@@ -3,16 +3,16 @@
 title: Rui Xu
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Rui
 last_name: Xu
 
 # Status emoji
-status: I am now finding a Ph.D. postion in Robotics~
+status: 
   icon: ☕️
-
+# I am now finding a Ph.D. position in Robotics ~
 # Is this the primary user of the site?
 superuser: true
 
